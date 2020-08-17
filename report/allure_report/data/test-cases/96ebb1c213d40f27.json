@@ -1,0 +1,139 @@
+{
+  "uid" : "96ebb1c213d40f27",
+  "name" : "test_detail",
+  "fullName" : "testcase.test_mine.TestMine#test_detail",
+  "historyId" : "712d9b47b8661a83a653673bc23966b0",
+  "time" : {
+    "start" : 1597389450406,
+    "stop" : 1597389451443,
+    "duration" : 1037
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6a6edb20efbc3706",
+      "name" : "stdout",
+      "source" : "6a6edb20efbc3706.txt",
+      "type" : "text/plain",
+      "size" : 1343
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试mine接口"
+  }, {
+    "name" : "story",
+    "value" : "我的-幸运大抽奖-detail(奖品列表)接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMine"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "14780-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "32f145c1dcdfb87a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597388925308,
+        "stop" : 1597388926335,
+        "duration" : 1027
+      }
+    }, {
+      "uid" : "663a269794e892da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597388441044,
+        "stop" : 1597388441099,
+        "duration" : 55
+      }
+    }, {
+      "uid" : "73a4ff665d27e3c2",
+      "status" : "broken",
+      "statusDetails" : "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "time" : {
+        "start" : 1597388283989,
+        "stop" : 1597388284003,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "9f20b1136b5afdbc",
+      "status" : "broken",
+      "statusDetails" : "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "time" : {
+        "start" : 1597388089774,
+        "stop" : 1597388089785,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "af2c76e6512d1851",
+      "status" : "broken",
+      "statusDetails" : "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "time" : {
+        "start" : 1597388081592,
+        "stop" : 1597388081623,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "de45284746be9d6d",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: type object 'TestMine' has no attribute 'get_actId'",
+      "time" : {
+        "start" : 1597387576417,
+        "stop" : 1597387576417,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fffb4e0ac172ab43",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: type object 'TestMine' has no attribute 'get_actId'",
+      "time" : {
+        "start" : 1597376186887,
+        "stop" : 1597376186887,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96ebb1c213d40f27.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,170 @@
+{
+  "uid" : "e45cb7d21c0a2387",
+  "name" : "test_invite",
+  "fullName" : "testcase.test_index.TestInterface#test_invite",
+  "historyId" : "9773678e104e83528bcbf65acda7293b",
+  "time" : {
+    "start" : 1597389435029,
+    "stop" : 1597389435059,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fcad1e17eb2a1a7b",
+      "name" : "stdout",
+      "source" : "fcad1e17eb2a1a7b.txt",
+      "type" : "text/plain",
+      "size" : 331
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试index接口"
+  }, {
+    "name" : "story",
+    "value" : "invite接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_index"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestInterface"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "14780-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3cbb9438c8b6339",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597388924139,
+        "stop" : 1597388924169,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "d49057d8adf1c81d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597388427641,
+        "stop" : 1597388427726,
+        "duration" : 85
+      }
+    }, {
+      "uid" : "cd60bc08e97e54a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597388270590,
+        "stop" : 1597388270620,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "d349d6e74bdafb90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597388089623,
+        "stop" : 1597388089642,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "80f4f6c75abc2315",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597388081414,
+        "stop" : 1597388081441,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "922b8c8fe9aeffb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597387562636,
+        "stop" : 1597387562666,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "ae0a4351a7d2de9",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '00000' == '00001'\n  - 00001\n  ?     ^\n  + 00000\n  ?     ^",
+      "time" : {
+        "start" : 1597376554979,
+        "stop" : 1597376555013,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "90df3134e2c137f7",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '00000' == '00001'\n  - 00001\n  ?     ^\n  + 00000\n  ?     ^",
+      "time" : {
+        "start" : 1597376420496,
+        "stop" : 1597376420533,
+        "duration" : 37
+      }
+    }, {
+      "uid" : "f81a788716c65f52",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '00000' == '00001'\n  - 00001\n  ?     ^\n  + 00000\n  ?     ^",
+      "time" : {
+        "start" : 1597376173485,
+        "stop" : 1597376173518,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "1de07b6838ec6f79",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '00000' == '00001'\n  - 00001\n  ?     ^\n  + 00000\n  ?     ^",
+      "time" : {
+        "start" : 1597375334178,
+        "stop" : 1597375334218,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "11071aea1001ee46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597374965593,
+        "stop" : 1597374965626,
+        "duration" : 33
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e45cb7d21c0a2387.json",
+  "parameterValues" : [ ]
+}

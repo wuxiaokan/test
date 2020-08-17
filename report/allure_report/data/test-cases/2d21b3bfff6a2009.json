@@ -1,0 +1,76 @@
+{
+  "uid" : "2d21b3bfff6a2009",
+  "name" : "test_handerpick",
+  "fullName" : "testcase.test_index.TestInterface#test_handerpick",
+  "historyId" : "1a093abf08518ac6f4a09bc99b248aaf",
+  "time" : {
+    "start" : 1597376554913,
+    "stop" : 1597376554935,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "703b9efe3b0aa326",
+      "name" : "stdout",
+      "source" : "703b9efe3b0aa326.txt",
+      "type" : "text/plain",
+      "size" : 11931
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "pick接口"
+  }, {
+    "name" : "feature",
+    "value" : "测试index接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_index"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestInterface"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "11468-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d21b3bfff6a2009.json",
+  "parameterValues" : [ ]
+}

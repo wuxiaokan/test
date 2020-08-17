@@ -1,0 +1,76 @@
+{
+  "uid" : "6870a75b31b42bb9",
+  "name" : "test_tabs",
+  "fullName" : "testcase.test_index.TestInterface#test_tabs",
+  "historyId" : "a5dfae7f22723914e319ac993deca8fc",
+  "time" : {
+    "start" : 1597376554953,
+    "stop" : 1597376554966,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "538bad19258889df",
+      "name" : "stdout",
+      "source" : "538bad19258889df.txt",
+      "type" : "text/plain",
+      "size" : 885
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "tabs接口"
+  }, {
+    "name" : "feature",
+    "value" : "测试index接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_index"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestInterface"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "11468-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6870a75b31b42bb9.json",
+  "parameterValues" : [ ]
+}

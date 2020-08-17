@@ -1,0 +1,211 @@
+[ {
+  "uid" : "6c7f7fe5767afbec",
+  "name" : "test_one",
+  "time" : {
+    "start" : 1597389512899,
+    "stop" : 1597389512899,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45f2b24c82d0ea22",
+  "name" : "test_button",
+  "time" : {
+    "start" : 1597389434996,
+    "stop" : 1597389435009,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "921390c1de31da8b",
+  "name" : "test_detail",
+  "time" : {
+    "start" : 1597389435062,
+    "stop" : 1597389449299,
+    "duration" : 14237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce905e5d11c5f670",
+  "name" : "test_modify_address",
+  "time" : {
+    "start" : 1597389453087,
+    "stop" : 1597389453117,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89bcc88cd668f59f",
+  "name" : "test_get_actId",
+  "time" : {
+    "start" : 1597389449389,
+    "stop" : 1597389450403,
+    "duration" : 1014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c0de2fc1e16c62f",
+  "name" : "test_rule",
+  "time" : {
+    "start" : 1597389449373,
+    "stop" : 1597389449384,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c7c555da424dcd4",
+  "name" : "test_prizes",
+  "time" : {
+    "start" : 1597389451447,
+    "stop" : 1597389452997,
+    "duration" : 1550
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcaf5494549b30f2",
+  "name" : "test_handerpick",
+  "time" : {
+    "start" : 1597389434967,
+    "stop" : 1597389434992,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31740d3aeab86d80",
+  "name" : "test_tabs",
+  "time" : {
+    "start" : 1597389435013,
+    "stop" : 1597389435025,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e45cb7d21c0a2387",
+  "name" : "test_invite",
+  "time" : {
+    "start" : 1597389435029,
+    "stop" : 1597389435059,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d639245dce351557",
+  "name" : "test_delete",
+  "time" : {
+    "start" : 1597389453121,
+    "stop" : 1597389455174,
+    "duration" : 2053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0ee28ede6fe67b7",
+  "name" : "test_two",
+  "time" : {
+    "start" : 1597389512902,
+    "stop" : 1597389512902,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8c9fe58c989025",
+  "name" : "test_profile",
+  "time" : {
+    "start" : 1597389449306,
+    "stop" : 1597389449334,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "773319d37ba6e690",
+  "name" : "test_config",
+  "time" : {
+    "start" : 1597389449339,
+    "stop" : 1597389449352,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "648c7c25eb78ae3d",
+  "name" : "test_detail",
+  "time" : {
+    "start" : 1597389455178,
+    "stop" : 1597389456634,
+    "duration" : 1456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32a6c2699693348f",
+  "name" : "test_prop",
+  "time" : {
+    "start" : 1597389453003,
+    "stop" : 1597389453020,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9573a6697e94bdb",
+  "name" : "test_add_address",
+  "time" : {
+    "start" : 1597389453046,
+    "stop" : 1597389453082,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e881e123c6a1e5c9",
+  "name" : "test_sponsor",
+  "time" : {
+    "start" : 1597389449355,
+    "stop" : 1597389449369,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96ebb1c213d40f27",
+  "name" : "test_detail",
+  "time" : {
+    "start" : 1597389450406,
+    "stop" : 1597389451443,
+    "duration" : 1037
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb9df7b9b8e1cf60",
+  "name" : "test_addressList",
+  "time" : {
+    "start" : 1597389453026,
+    "stop" : 1597389453042,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65fde69cb3b1127e",
+  "name" : "test_share",
+  "time" : {
+    "start" : 1597389456637,
+    "stop" : 1597389512890,
+    "duration" : 56253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,76 @@
+{
+  "uid" : "fab0f37f1225ef15",
+  "name" : "test_prizes",
+  "fullName" : "testcase.test_mine.TestMine#test_prizes",
+  "historyId" : "0da85f5fcf7ee70bfc63f20c2afa41f4",
+  "time" : {
+    "start" : 1597388441102,
+    "stop" : 1597388442645,
+    "duration" : 1543
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8e7cb9ff80880a4b",
+      "name" : "stdout",
+      "source" : "8e7cb9ff80880a4b.txt",
+      "type" : "text/plain",
+      "size" : 189
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试mine接口"
+  }, {
+    "name" : "story",
+    "value" : "我的-我的奖品 status=1未使用，2已使用,4使用中"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMine"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "8024-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fab0f37f1225ef15.json",
+  "parameterValues" : [ ]
+}

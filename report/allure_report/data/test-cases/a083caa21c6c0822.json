@@ -1,0 +1,76 @@
+{
+  "uid" : "a083caa21c6c0822",
+  "name" : "test_sponsor",
+  "fullName" : "testcase.test_mine.TestMine#test_sponsor",
+  "historyId" : "c9654e640dd909b84a725f2fd7bbd447",
+  "time" : {
+    "start" : 1597388089732,
+    "stop" : 1597388089743,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7743c3c730f05541",
+      "name" : "stdout",
+      "source" : "7743c3c730f05541.txt",
+      "type" : "text/plain",
+      "size" : 369
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试mine接口"
+  }, {
+    "name" : "story",
+    "value" : "我的-幸运大抽奖-sponsor(底部声明)接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMine"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "5588-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a083caa21c6c0822.json",
+  "parameterValues" : [ ]
+}

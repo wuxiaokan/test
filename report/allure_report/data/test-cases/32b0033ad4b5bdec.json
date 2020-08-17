@@ -1,0 +1,60 @@
+{
+  "uid" : "32b0033ad4b5bdec",
+  "name" : "test_one",
+  "fullName" : "testcase.test_simpe.TestClass#test_one",
+  "historyId" : "2e9fa5303c0108ae3fb4eea366236ff8",
+  "time" : {
+    "start" : 1597388930060,
+    "stop" : 1597388930060,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试Dome"
+  }, {
+    "name" : "story",
+    "value" : "测试用例 1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_simpe"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "15920-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_simpe"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32b0033ad4b5bdec.json",
+  "parameterValues" : [ ]
+}

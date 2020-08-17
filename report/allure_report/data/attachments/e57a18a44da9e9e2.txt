@@ -1,0 +1,2 @@
+config:
+{'err': 'F0001', 'msg': '请求过快，请稍后访问', 'ver': 1, 'dat': None}

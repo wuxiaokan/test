@@ -1,0 +1,62 @@
+{
+  "uid" : "648c7c25eb78ae3d",
+  "name" : "test_detail",
+  "fullName" : "testcase.test_share.TestTabs#test_detail",
+  "historyId" : "1402e6966ad802e5974970a2b0ecd0d4",
+  "time" : {
+    "start" : 1597389455178,
+    "stop" : 1597389456634,
+    "duration" : 1456
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "detail接口"
+  }, {
+    "name" : "feature",
+    "value" : "分享接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_share"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTabs"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "14780-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_share"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "648c7c25eb78ae3d.json",
+  "parameterValues" : [ ]
+}

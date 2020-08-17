@@ -1,0 +1,62 @@
+{
+  "uid" : "9828f33807851bb0",
+  "name" : "test_get_actId",
+  "fullName" : "testcase.test_mine.TestMine#test_get_actId",
+  "historyId" : "3fedc278152bb206429a526baccdb947",
+  "time" : {
+    "start" : 1597376186879,
+    "stop" : 1597376186880,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "statusMessage" : "AttributeError: type object 'TestMine' has no attribute 'config'",
+  "statusTrace" : "@staticmethod\n    @allure.story(\"取config中actId\")\n    def test_get_actId():\n>       config = TestMine.config()\nE       AttributeError: type object 'TestMine' has no attribute 'config'\n\ntestcase\\test_mine.py:65: AttributeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "取config中actId"
+  }, {
+    "name" : "feature",
+    "value" : "测试mine接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMine"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "8180-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9828f33807851bb0.json",
+  "parameterValues" : [ ]
+}

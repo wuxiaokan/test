@@ -1,0 +1,139 @@
+{
+  "uid" : "89bcc88cd668f59f",
+  "name" : "test_get_actId",
+  "fullName" : "testcase.test_mine.TestMine#test_get_actId",
+  "historyId" : "3fedc278152bb206429a526baccdb947",
+  "time" : {
+    "start" : 1597389449389,
+    "stop" : 1597389450403,
+    "duration" : 1014
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5de74211f7b9c68d",
+      "name" : "stdout",
+      "source" : "5de74211f7b9c68d.txt",
+      "type" : "text/plain",
+      "size" : 211
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "取config中actId"
+  }, {
+    "name" : "feature",
+    "value" : "测试mine接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMine"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "14780-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "42cbc523f2875d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597388924292,
+        "stop" : 1597388925305,
+        "duration" : 1013
+      }
+    }, {
+      "uid" : "a003c498ab8d0ca1",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1597388440990,
+        "stop" : 1597388441000,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "3a49dad00c03cda9",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1597388283935,
+        "stop" : 1597388283943,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "bbbc8259577964cc",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1597388089759,
+        "stop" : 1597388089766,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "8a9a8944b7b8c6de",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not subscriptable",
+      "time" : {
+        "start" : 1597388081573,
+        "stop" : 1597388081581,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "a9709727710c0feb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597387576402,
+        "stop" : 1597387576414,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "9828f33807851bb0",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: type object 'TestMine' has no attribute 'config'",
+      "time" : {
+        "start" : 1597376186879,
+        "stop" : 1597376186880,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89bcc88cd668f59f.json",
+  "parameterValues" : [ ]
+}

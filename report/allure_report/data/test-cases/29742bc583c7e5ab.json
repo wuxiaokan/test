@@ -1,0 +1,76 @@
+{
+  "uid" : "29742bc583c7e5ab",
+  "name" : "test_modify_address",
+  "fullName" : "testcase.test_mine.TestMine#test_modify_address",
+  "historyId" : "67a31c7aa96eabbaa6b79a9b9fcbc066",
+  "time" : {
+    "start" : 1597388091448,
+    "stop" : 1597388091484,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fde8f0e3fbc98bd",
+      "name" : "stdout",
+      "source" : "fde8f0e3fbc98bd.txt",
+      "type" : "text/plain",
+      "size" : 381
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试mine接口"
+  }, {
+    "name" : "story",
+    "value" : "我的-我的收货地址-编辑收货地址"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMine"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "5588-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29742bc583c7e5ab.json",
+  "parameterValues" : [ ]
+}

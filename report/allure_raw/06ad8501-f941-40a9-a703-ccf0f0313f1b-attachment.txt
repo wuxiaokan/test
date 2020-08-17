@@ -1,0 +1,1 @@
+{'err': '00000', 'msg': '', 'ver': 1, 'dat': {'id': '6699934762590674944', 'userName': '飞六', 'userPhone': '13818171239', 'isDefault': 0, 'city': '110100', 'detail': '三里屯', 'province': '11', 'county': '110101', 'cityName': '北京市', 'provinceName': '北京市', 'countyName': '东城区', 'userId': '6699186957370662912', 'detailEx': '北京市东城区三里屯'}}

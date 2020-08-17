@@ -1,0 +1,378 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试index接口",
+    "children" : [ {
+      "name" : "pick接口",
+      "children" : [ {
+        "name" : "test_handerpick",
+        "uid" : "bcaf5494549b30f2",
+        "parentUid" : "d204fefcb2fb21113987fccc067ddf93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389434967,
+          "stop" : 1597389434992,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d204fefcb2fb21113987fccc067ddf93"
+    }, {
+      "name" : "button接口",
+      "children" : [ {
+        "name" : "test_button",
+        "uid" : "45f2b24c82d0ea22",
+        "parentUid" : "62bc60673998a1d88d2827f6ac1a15d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389434996,
+          "stop" : 1597389435009,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "62bc60673998a1d88d2827f6ac1a15d3"
+    }, {
+      "name" : "tabs接口",
+      "children" : [ {
+        "name" : "test_tabs",
+        "uid" : "31740d3aeab86d80",
+        "parentUid" : "9d31a5a23707383fb3fbddb3f9320fb7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389435013,
+          "stop" : 1597389435025,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9d31a5a23707383fb3fbddb3f9320fb7"
+    }, {
+      "name" : "invite接口",
+      "children" : [ {
+        "name" : "test_invite",
+        "uid" : "e45cb7d21c0a2387",
+        "parentUid" : "710f02e799b612c1e95cfcf68c2e1700",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389435029,
+          "stop" : 1597389435059,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "710f02e799b612c1e95cfcf68c2e1700"
+    }, {
+      "name" : "detail接口",
+      "children" : [ {
+        "name" : "test_detail",
+        "uid" : "921390c1de31da8b",
+        "parentUid" : "704876dca24986ea51df4f4ccaf12a14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389435062,
+          "stop" : 1597389449299,
+          "duration" : 14237
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "704876dca24986ea51df4f4ccaf12a14"
+    } ],
+    "uid" : "68dfdfaae64d9551979e61d8aed9c37e"
+  }, {
+    "name" : "测试mine接口",
+    "children" : [ {
+      "name" : "我的-profile(身份认证)接口",
+      "children" : [ {
+        "name" : "test_profile",
+        "uid" : "f8c9fe58c989025",
+        "parentUid" : "98a6bea1558b071928cd58d278ce5f19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389449306,
+          "stop" : 1597389449334,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "98a6bea1558b071928cd58d278ce5f19"
+    }, {
+      "name" : "我的-config接口",
+      "children" : [ {
+        "name" : "test_config",
+        "uid" : "773319d37ba6e690",
+        "parentUid" : "b8ab2ff3bc8140fe2b04fdbff96b4cf8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389449339,
+          "stop" : 1597389449352,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b8ab2ff3bc8140fe2b04fdbff96b4cf8"
+    }, {
+      "name" : "我的-幸运大抽奖-sponsor(底部声明)接口",
+      "children" : [ {
+        "name" : "test_sponsor",
+        "uid" : "e881e123c6a1e5c9",
+        "parentUid" : "eee318db2248625b72d96d48dec8ef8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389449355,
+          "stop" : 1597389449369,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eee318db2248625b72d96d48dec8ef8c"
+    }, {
+      "name" : "我的-幸运大抽奖-rule(规则)接口",
+      "children" : [ {
+        "name" : "test_rule",
+        "uid" : "2c0de2fc1e16c62f",
+        "parentUid" : "e7b88d0fa6296dfa58d772a7e6363632",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389449373,
+          "stop" : 1597389449384,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e7b88d0fa6296dfa58d772a7e6363632"
+    }, {
+      "name" : "取config中actId",
+      "children" : [ {
+        "name" : "test_get_actId",
+        "uid" : "89bcc88cd668f59f",
+        "parentUid" : "d091b2bd77ece02349c8522c7b7e34bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389449389,
+          "stop" : 1597389450403,
+          "duration" : 1014
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d091b2bd77ece02349c8522c7b7e34bb"
+    }, {
+      "name" : "我的-幸运大抽奖-detail(奖品列表)接口",
+      "children" : [ {
+        "name" : "test_detail",
+        "uid" : "96ebb1c213d40f27",
+        "parentUid" : "edf0df191ef53677179ae896a745f164",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389450406,
+          "stop" : 1597389451443,
+          "duration" : 1037
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "edf0df191ef53677179ae896a745f164"
+    }, {
+      "name" : "我的-我的奖品 status=1未使用，2已使用,4使用中",
+      "children" : [ {
+        "name" : "test_prizes",
+        "uid" : "3c7c555da424dcd4",
+        "parentUid" : "287c925c1dba30f7e1e8686f63fe6a92",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389451447,
+          "stop" : 1597389452997,
+          "duration" : 1550
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "287c925c1dba30f7e1e8686f63fe6a92"
+    }, {
+      "name" : "我的-我的道具",
+      "children" : [ {
+        "name" : "test_prop",
+        "uid" : "32a6c2699693348f",
+        "parentUid" : "b865869668d0fa495a20ada7c3f28920",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389453003,
+          "stop" : 1597389453020,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b865869668d0fa495a20ada7c3f28920"
+    }, {
+      "name" : "我的-我的收货地址",
+      "children" : [ {
+        "name" : "test_addressList",
+        "uid" : "eb9df7b9b8e1cf60",
+        "parentUid" : "5eb62dda698d0bdd3a438fc7a817e4d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389453026,
+          "stop" : 1597389453042,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5eb62dda698d0bdd3a438fc7a817e4d0"
+    }, {
+      "name" : "我的-我的收货地址-添加收货地址",
+      "children" : [ {
+        "name" : "test_add_address",
+        "uid" : "c9573a6697e94bdb",
+        "parentUid" : "776bbcec6428646597de8ba90ae12987",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389453046,
+          "stop" : 1597389453082,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "776bbcec6428646597de8ba90ae12987"
+    }, {
+      "name" : "我的-我的收货地址-编辑收货地址",
+      "children" : [ {
+        "name" : "test_modify_address",
+        "uid" : "ce905e5d11c5f670",
+        "parentUid" : "e74e81cd22ac20f88afed8c0ef87e955",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389453087,
+          "stop" : 1597389453117,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e74e81cd22ac20f88afed8c0ef87e955"
+    }, {
+      "name" : "我的-我的收货地址-删除收货地址",
+      "children" : [ {
+        "name" : "test_delete",
+        "uid" : "d639245dce351557",
+        "parentUid" : "93972ae3bd31bdca9a61dabf3e96d0c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389453121,
+          "stop" : 1597389455174,
+          "duration" : 2053
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "93972ae3bd31bdca9a61dabf3e96d0c3"
+    } ],
+    "uid" : "dc5844daaa05920d13bb2aff4ea2b8ba"
+  }, {
+    "name" : "分享接口",
+    "children" : [ {
+      "name" : "detail接口",
+      "children" : [ {
+        "name" : "test_detail",
+        "uid" : "648c7c25eb78ae3d",
+        "parentUid" : "5b828926d40655c082e28b5e8c564f91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389455178,
+          "stop" : 1597389456634,
+          "duration" : 1456
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5b828926d40655c082e28b5e8c564f91"
+    }, {
+      "name" : "share",
+      "children" : [ {
+        "name" : "test_share",
+        "uid" : "65fde69cb3b1127e",
+        "parentUid" : "0584a6687529f88800430dfe9e449e73",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389456637,
+          "stop" : 1597389512890,
+          "duration" : 56253
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0584a6687529f88800430dfe9e449e73"
+    } ],
+    "uid" : "17a91274e83623902cf8e477dab77169"
+  }, {
+    "name" : "测试Dome",
+    "children" : [ {
+      "name" : "测试用例 1",
+      "children" : [ {
+        "name" : "test_one",
+        "uid" : "6c7f7fe5767afbec",
+        "parentUid" : "9a937333c1589f211d52d820f48b7e7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597389512899,
+          "stop" : 1597389512899,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9a937333c1589f211d52d820f48b7e7e"
+    }, {
+      "name" : "测试用例 2",
+      "children" : [ {
+        "name" : "test_two",
+        "uid" : "c0ee28ede6fe67b7",
+        "parentUid" : "7336b37ba860758ee40744f795bf2d24",
+        "status" : "failed",
+        "time" : {
+          "start" : 1597389512902,
+          "stop" : 1597389512902,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7336b37ba860758ee40744f795bf2d24"
+    } ],
+    "uid" : "86ec50624e62437339bc836b0b62d379"
+  } ]
+}

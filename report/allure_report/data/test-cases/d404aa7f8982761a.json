@@ -1,0 +1,76 @@
+{
+  "uid" : "d404aa7f8982761a",
+  "name" : "test_button",
+  "fullName" : "testcase.test_index.TestInterface#test_button",
+  "historyId" : "60b2a4a6392a9be44425d0a22c2a34bc",
+  "time" : {
+    "start" : 1597387562602,
+    "stop" : 1597387562614,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d82e38b9341df558",
+      "name" : "stdout",
+      "source" : "d82e38b9341df558.txt",
+      "type" : "text/plain",
+      "size" : 223
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "button接口"
+  }, {
+    "name" : "feature",
+    "value" : "测试index接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_index"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestInterface"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "15216-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d404aa7f8982761a.json",
+  "parameterValues" : [ ]
+}

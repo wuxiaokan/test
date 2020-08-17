@@ -1,0 +1,131 @@
+{
+  "uid" : "c0ee28ede6fe67b7",
+  "name" : "test_two",
+  "fullName" : "testcase.test_simpe.TestClass#test_two",
+  "historyId" : "4c4a4f015c4cd67ec4d0a3ca0df7b327",
+  "time" : {
+    "start" : 1597389512902,
+    "stop" : 1597389512902,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert False\n +  where False = hasattr('test', 'check')",
+  "statusTrace" : "self = <testcase.test_simpe.TestClass object at 0x0000015C60BE8898>\n\n    @allure.story(\"测试用例 2\")\n    def test_two(self):\n        x = \"test\"\n>       assert hasattr(x, 'check')\nE       AssertionError: assert False\nE        +  where False = hasattr('test', 'check')\n\ntestcase\\test_simpe.py:15: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试用例 2"
+  }, {
+    "name" : "feature",
+    "value" : "测试Dome"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_simpe"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "14780-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_simpe"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "46ba0ecd1e78eb2d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = hasattr('test', 'check')",
+      "time" : {
+        "start" : 1597388930063,
+        "stop" : 1597388930063,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9cc17830213f0d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = hasattr('test', 'check')",
+      "time" : {
+        "start" : 1597388443796,
+        "stop" : 1597388443797,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d83b278f45e758b0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = hasattr('test', 'check')",
+      "time" : {
+        "start" : 1597388285711,
+        "stop" : 1597388285711,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "60d1be1b4f7fd4af",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = hasattr('test', 'check')",
+      "time" : {
+        "start" : 1597388091508,
+        "stop" : 1597388091508,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "47213f964d1c6d12",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = hasattr('test', 'check')",
+      "time" : {
+        "start" : 1597388083382,
+        "stop" : 1597388083382,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e3ae4b71aeca291e",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = hasattr('test', 'check')",
+      "time" : {
+        "start" : 1597387578178,
+        "stop" : 1597387578179,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b45f9d6969c236b2",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = hasattr('test', 'check')",
+      "time" : {
+        "start" : 1597376188609,
+        "stop" : 1597376188609,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c0ee28ede6fe67b7.json",
+  "parameterValues" : [ ]
+}

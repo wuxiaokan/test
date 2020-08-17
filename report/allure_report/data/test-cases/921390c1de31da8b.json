@@ -1,0 +1,169 @@
+{
+  "uid" : "921390c1de31da8b",
+  "name" : "test_detail",
+  "fullName" : "testcase.test_index.TestInterface#test_detail",
+  "historyId" : "e2851855613befbc6ca3f2250e8b8592",
+  "time" : {
+    "start" : 1597389435062,
+    "stop" : 1597389449299,
+    "duration" : 14237
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fa30f5f684375120",
+      "name" : "stdout",
+      "source" : "fa30f5f684375120.txt",
+      "type" : "text/plain",
+      "size" : 30194
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试index接口"
+  }, {
+    "name" : "story",
+    "value" : "detail接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_index"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestInterface"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "14780-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "74f24d974fb608b9",
+      "status" : "broken",
+      "statusDetails" : "TypeError: object of type 'NoneType' has no len()",
+      "time" : {
+        "start" : 1597388924173,
+        "stop" : 1597388924180,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "969235e998126807",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597388427729,
+        "stop" : 1597388440923,
+        "duration" : 13194
+      }
+    }, {
+      "uid" : "23c1259cc215a0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597388270624,
+        "stop" : 1597388283854,
+        "duration" : 13230
+      }
+    }, {
+      "uid" : "3fe1e80b4200e4bf",
+      "status" : "broken",
+      "statusDetails" : "TypeError: object of type 'NoneType' has no len()",
+      "time" : {
+        "start" : 1597388089645,
+        "stop" : 1597388089651,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "1367df1696139d88",
+      "status" : "broken",
+      "statusDetails" : "TypeError: object of type 'NoneType' has no len()",
+      "time" : {
+        "start" : 1597388081445,
+        "stop" : 1597388081453,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "8f6a6effdf8b2c59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597387562670,
+        "stop" : 1597387576292,
+        "duration" : 13622
+      }
+    }, {
+      "uid" : "4c6b1121da7e4196",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597376555062,
+        "stop" : 1597376568277,
+        "duration" : 13215
+      }
+    }, {
+      "uid" : "b6e6fa1376b10f99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597376420575,
+        "stop" : 1597376433794,
+        "duration" : 13219
+      }
+    }, {
+      "uid" : "1e32786438cda21a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597376173579,
+        "stop" : 1597376186787,
+        "duration" : 13208
+      }
+    }, {
+      "uid" : "b3cb8828baa93125",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597375334260,
+        "stop" : 1597375347493,
+        "duration" : 13233
+      }
+    }, {
+      "uid" : "8a70124b87b6ad89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597374965630,
+        "stop" : 1597374978862,
+        "duration" : 13232
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "921390c1de31da8b.json",
+  "parameterValues" : [ ]
+}

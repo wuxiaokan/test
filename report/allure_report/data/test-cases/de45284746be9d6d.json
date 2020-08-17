@@ -1,0 +1,62 @@
+{
+  "uid" : "de45284746be9d6d",
+  "name" : "test_detail",
+  "fullName" : "testcase.test_mine.TestMine#test_detail",
+  "historyId" : "712d9b47b8661a83a653673bc23966b0",
+  "time" : {
+    "start" : 1597387576417,
+    "stop" : 1597387576417,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "AttributeError: type object 'TestMine' has no attribute 'get_actId'",
+  "statusTrace" : "@staticmethod\n    @allure.story(\"我的-幸运大抽奖-detail(奖品列表)接口\")\n    def test_detail():\n        # 调用get_actId\n>       actId = TestMine.get_actId()\nE       AttributeError: type object 'TestMine' has no attribute 'get_actId'\n\ntestcase\\test_mine.py:74: AttributeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "我的-幸运大抽奖-detail(奖品列表)接口"
+  }, {
+    "name" : "feature",
+    "value" : "测试mine接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMine"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "15216-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de45284746be9d6d.json",
+  "parameterValues" : [ ]
+}

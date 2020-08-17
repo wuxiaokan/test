@@ -1,0 +1,80 @@
+{
+  "uid" : "3cc093c7f061b0dd",
+  "name" : "test_delete",
+  "fullName" : "testcase.test_mine.TestMine#test_delete",
+  "historyId" : "abcfe45fbe350dd91999bc9a8be7af2f",
+  "time" : {
+    "start" : 1597388091489,
+    "stop" : 1597388091496,
+    "duration" : 7
+  },
+  "status" : "broken",
+  "statusMessage" : "TypeError: object of type 'NoneType' has no len()",
+  "statusTrace" : "@staticmethod\n    @allure.story(\"我的-我的收货地址-删除收货地址\")\n    def test_delete():\n        # 获取收货地址列表以json格式返回\n        url1 = 'http://192.168.3.155/rest/user/address/list'\n        r = requests.get(url=url1, headers=hd)\n        addressList = r.json()\n    \n        # 列表a用来存储收货地址列表中的id\n        a = []\n        print(a)\n>       length = len(addressList['dat'])\nE       TypeError: object of type 'NoneType' has no len()\n\ntestcase\\test_mine.py:173: TypeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "TypeError: object of type 'NoneType' has no len()",
+    "statusTrace" : "@staticmethod\n    @allure.story(\"我的-我的收货地址-删除收货地址\")\n    def test_delete():\n        # 获取收货地址列表以json格式返回\n        url1 = 'http://192.168.3.155/rest/user/address/list'\n        r = requests.get(url=url1, headers=hd)\n        addressList = r.json()\n    \n        # 列表a用来存储收货地址列表中的id\n        a = []\n        print(a)\n>       length = len(addressList['dat'])\nE       TypeError: object of type 'NoneType' has no len()\n\ntestcase\\test_mine.py:173: TypeError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "37bc3feb82490c07",
+      "name" : "stdout",
+      "source" : "37bc3feb82490c07.txt",
+      "type" : "text/plain",
+      "size" : 3
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试mine接口"
+  }, {
+    "name" : "story",
+    "value" : "我的-我的收货地址-删除收货地址"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_mine"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMine"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "5588-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_mine"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3cc093c7f061b0dd.json",
+  "parameterValues" : [ ]
+}

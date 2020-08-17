@@ -1,0 +1,2 @@
+invite:
+{'err': '00000', 'msg': '', 'ver': 1, 'dat': {'id': '6699934746589405184', 'title': 'Hi 好久不见，赶紧来答题，赢取现金奖励', 'content': '我一直在全民共进玩答题，知识可变现，免费赢各式奖励', 'url': 'http://192.168.3.155/web/h5_invitation/index.html?code=null&action=share.invite'}}

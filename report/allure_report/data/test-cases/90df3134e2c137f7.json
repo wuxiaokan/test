@@ -1,0 +1,80 @@
+{
+  "uid" : "90df3134e2c137f7",
+  "name" : "test_invite",
+  "fullName" : "testcase.test_index.TestInterface#test_invite",
+  "historyId" : "9773678e104e83528bcbf65acda7293b",
+  "time" : {
+    "start" : 1597376420496,
+    "stop" : 1597376420533,
+    "duration" : 37
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '00000' == '00001'\n  - 00001\n  ?     ^\n  + 00000\n  ?     ^",
+  "statusTrace" : "@staticmethod\n    @allure.story(\"invite接口\")\n    def test_invite():\n        print('invite:')\n        url = 'http://192.168.3.155/rest/share/invite?channel=4'\n        info = inter.get(url, hd)\n>       assert info['err'] == '00001'\nE       AssertionError: assert '00000' == '00001'\nE         - 00001\nE         ?     ^\nE         + 00000\nE         ?     ^\n\ntestcase\\test_index.py:54: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert '00000' == '00001'\n  - 00001\n  ?     ^\n  + 00000\n  ?     ^",
+    "statusTrace" : "@staticmethod\n    @allure.story(\"invite接口\")\n    def test_invite():\n        print('invite:')\n        url = 'http://192.168.3.155/rest/share/invite?channel=4'\n        info = inter.get(url, hd)\n>       assert info['err'] == '00001'\nE       AssertionError: assert '00000' == '00001'\nE         - 00001\nE         ?     ^\nE         + 00000\nE         ?     ^\n\ntestcase\\test_index.py:54: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b76fc8c4adc89da3",
+      "name" : "stdout",
+      "source" : "b76fc8c4adc89da3.txt",
+      "type" : "text/plain",
+      "size" : 331
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试index接口"
+  }, {
+    "name" : "story",
+    "value" : "invite接口"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_index"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestInterface"
+  }, {
+    "name" : "host",
+    "value" : "SC-201907251023"
+  }, {
+    "name" : "thread",
+    "value" : "4552-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90df3134e2c137f7.json",
+  "parameterValues" : [ ]
+}
