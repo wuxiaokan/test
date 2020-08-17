@@ -1,0 +1,4 @@
+2020-08-17 16:32:32,550 - logtest.py[line:22] - INFO: this is a logger info message
+2020-08-17 16:32:32,551 - logtest.py[line:23] - WARNING: this is a logger warning message
+2020-08-17 16:32:32,551 - logtest.py[line:24] - ERROR: this is a logger error message
+2020-08-17 16:32:32,551 - logtest.py[line:25] - CRITICAL: this is a logger critical message
