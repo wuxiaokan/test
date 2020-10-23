@@ -3,13 +3,14 @@ from inter_test import head, interway
 import time
 import requests
 import allure
+from util import logtest
 import pytest
 
 header = head.Headers
 hd = header.headinfo()
 
 inter = interway.InterWay
-
+logger = logtest.logger
 
 @allure.feature("分享接口")
 class TestTabs(object):
@@ -48,6 +49,7 @@ class TestTabs(object):
             shareInfo = inter.get(url, hd)
             time.sleep(0.5)
             assert shareInfo['err'] == '00000'
+            logger.info("err"+shareInfo['err'])
 
 
 if __name__ == '__main__':
